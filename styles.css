@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: #f4f4f4;
+  }
+  
+  header {
+    background: #007BFF;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  
+  select, input {
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  canvas {
+    background: white;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+  } 
